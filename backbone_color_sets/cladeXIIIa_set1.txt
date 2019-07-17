@@ -1,0 +1,9 @@
+LOC_Os12g44090.1
+Zm00001d041215_T002.1
+AT5G62710.1
+Solyc08g074760.2.1
+Potri.012G071100.1
+Bradi1g67050.2.p
+evm_27.model.AmTr_v1.0_scaffold00048.222
+evm_27.model.AmTr_v1.0_scaffold00002.363
+Potri.001G129000.1
