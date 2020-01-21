@@ -24,3 +24,6 @@ expression_correlation.R - script to perform expression correlation tests on two
 
 Find_number_of_variants.R - script to generate tables of gene structural variants by clade or species
 
+flanking_region_inspect.sh - script to run pfam domain scans on translated nucleotide sequence flanking genes with apparent truncations
+
+bed_generator.R - R script to find the genomic coordinates for a possible cryptic domain near genes with apparent truncations
